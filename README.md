@@ -10,3 +10,6 @@ Note that I DO NOT OWN ANY OF THE NOTES. I just made the application to find not
 
 
 I N S T A L L I N G
+
+https://github.com/Nonerz/class8-notes-generator/releases
+and click on garbage.exe 😹
